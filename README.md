@@ -1,5 +1,5 @@
 # DTLLM-VLT
-[CVPRW'24 Oral] DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM
+[CVPR Workshop 2024 Oral] DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM
 
 Coming soon...
 
@@ -8,6 +8,6 @@ Coming soon...
 @inproceedings{dtllm-vlt,
   title={DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM},
   author={Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang},
-  booktitle={CVPRW},
+  booktitle={CVPR Workshop},
   year={2024}
 }
